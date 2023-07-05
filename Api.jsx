@@ -1,9 +1,7 @@
 import axios from 'axios';
 
-// Set the base URL for the fake API
-axios.defaults.baseURL = 'http://localhost:3004';
 
-// Fetch users from the API
+axios.defaults.baseURL = 'http://localhost:3004';
 export const fetchUsers = async () => {
   try {
     const response = await axios.get('/users');
