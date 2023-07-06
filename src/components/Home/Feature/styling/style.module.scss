@@ -1,0 +1,45 @@
+section,
+.feature,
+.feature div {
+    display: flex;
+}
+.section {
+    border-bottom: 1px solid aqua;
+    width: 70%;
+    padding-bottom: 2rem;
+    gap: 44px;
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin: auto;
+    margin-top: 10rem;
+    .feature {
+        align-items: center;
+        align-content: center;
+        gap: 10px;
+        .textContainer {
+            padding-top: 8px;
+            flex-direction: column;
+            line-height: normal;
+            text-align: right;
+            h5 {
+                font-size: 16.88px;
+                font-weight: 600;
+            }
+            p {
+                color: #8e8e8e;
+                font-size: 15.883px;
+                font-weight: 400;
+            }
+        }
+
+        .image {
+            padding: 10px 8px;
+            border-radius: 10px;
+            border: 1px solid #eaeaea;
+            img {
+                height: 30px;
+                width: 30px;
+            }
+        }
+    }
+}
