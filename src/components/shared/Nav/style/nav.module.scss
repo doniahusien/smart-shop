@@ -1,0 +1,39 @@
+$primary-color: white;
+$secondary-color: #7fd3df;
+$text-color: #000000b3;
+$font-size: 16px;
+
+.navbar {
+    padding-top: 2rem ;
+    background-color: $primary-color;
+    display: grid;
+    grid-template-columns: 25rem 36rem 15rem;
+    align-items: center;
+    justify-content: center;
+    .icons {
+        ul {
+            display: flex;
+            align-items: center;
+            flex-direction: row;
+            gap: 0.6rem;
+            li {
+                .icon {
+                    color: $text-color;
+                    font-size: 20px;
+                }
+            }
+        }
+    }
+    .menu {
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        gap: 1rem; 
+        padding-top: 10px;
+
+        menuItem {
+                color: $text-color;
+        }
+    }
+}
+

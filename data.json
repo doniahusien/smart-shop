@@ -1,0 +1,182 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "قميص رجالي",
+            "size": "M",
+            "stars": 4,
+            "priceAfterDiscount": 200,
+            "priceBeforeDiscount": 250
+        },
+        {
+            "id": 2,
+            "name": "فستان نسائي",
+            "size": "L",
+            "stars": 5,
+            "priceAfterDiscount": 300,
+            "priceBeforeDiscount": 400
+        },
+        {
+            "id": 3,
+            "name": "تنورة قصيرة",
+            "size": "S",
+            "stars": 3,
+            "priceAfterDiscount": 175,
+            "priceBeforeDiscount": 200
+        },
+        {
+            "id": 4,
+            "name": "قميص نسائي",
+            "size": "XL",
+            "stars": 4,
+            "priceAfterDiscount": 180,
+            "priceBeforeDiscount": 220
+        },
+        {
+            "id": 5,
+            "name": "بنطلون رجالي",
+            "size": "2XL",
+            "stars": 5,
+            "priceAfterDiscount": 400,
+            "priceBeforeDiscount": 500
+        },
+        {
+            "id": 6,
+            "name": "فستان سهرة",
+            "size": "M",
+            "stars": 4,
+            "priceAfterDiscount": 350,
+            "priceBeforeDiscount": 450
+        },
+        {
+            "id": 7,
+            "name": "بلوزة نسائية",
+            "size": "L",
+            "stars": 5,
+            "priceAfterDiscount": 280,
+            "priceBeforeDiscount": 320
+        },
+        {
+            "id": 8,
+            "name": "تيشيرت رجالي",
+            "size": "S",
+            "stars": 3,
+            "priceAfterDiscount": 150,
+            "priceBeforeDiscount": 180
+        },
+        {
+            "id": 9,
+            "name": "فستان طويل",
+            "size": "XL",
+            "stars": 4,
+            "priceAfterDiscount": 420,
+            "priceBeforeDiscount": 480
+        },
+        {
+            "id": 10,
+            "name": "بنطلون نسائي",
+            "size": "2XL",
+            "stars": 5,
+            "priceAfterDiscount": 380,
+            "priceBeforeDiscount": 450
+        },
+        {
+            "id": 11,
+            "name": "قميص رجالي كتان",
+            "size": "M",
+            "stars": 4,
+            "priceAfterDiscount": 230,
+            "priceBeforeDiscount": 280
+        },
+        {
+            "id": 12,
+            "name": "فستان قصير",
+            "size": "L",
+            "stars": 5,
+            "priceAfterDiscount": 280,
+            "priceBeforeDiscount": 350
+        },
+        {
+            "id": 13,
+            "name": "بنطلون جينز",
+            "size": "S",
+            "stars": 3,
+            "priceAfterDiscount": 160,
+            "priceBeforeDiscount": 200
+        },
+        {
+            "id": 14,
+            "name": "بلوزة نسائية كشكش",
+            "size": "XL",
+            "stars": 4,
+            "priceAfterDiscount": 190,
+            "priceBeforeDiscount": 240
+        },
+        {
+            "id": 15,
+            "name": "قميص رجالي قطن",
+            "size": "2XL",
+            "stars": 5,
+            "priceAfterDiscount": 420,
+            "priceBeforeDiscount": 500
+        },
+        {
+            "id": 16,
+            "name": "فستان سهرة مطرز",
+            "size": "M",
+            "stars": 4,
+            "priceAfterDiscount": 380,
+            "priceBeforeDiscount": 450
+        }
+    ],
+    "cart": [
+        {
+            "id": 1,
+            "name": "قميص رجالي",
+            "size": "M",
+            "stars": 4,
+            "priceAfterDiscount": 200,
+            "priceBeforeDiscount": 250
+        },
+        {
+            "id": 2,
+            "name": "فستان نسائي",
+            "size": "L",
+            "stars": 5,
+            "priceAfterDiscount": 300,
+            "priceBeforeDiscount": 400
+        },
+        {
+            "id": 3,
+            "name": "تنورة قصيرة",
+            "size": "S",
+            "stars": 3,
+            "priceAfterDiscount": 175,
+            "priceBeforeDiscount": 200
+        },
+        {
+            "id": 4,
+            "name": "قميص نسائي",
+            "size": "XL",
+            "stars": 4,
+            "priceAfterDiscount": 180,
+            "priceBeforeDiscount": 220
+        },
+        {
+            "id": 5,
+            "name": "بنطلون رجالي",
+            "size": "2XL",
+            "stars": 5,
+            "priceAfterDiscount": 400,
+            "priceBeforeDiscount": 500
+        }
+    ],
+    "user": [
+        {
+            "id": "username",
+            "name": "Name",
+            "password": "password",
+            "email": "email@gmail.com"
+        }
+    ]
+}

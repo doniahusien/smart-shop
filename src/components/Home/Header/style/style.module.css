@@ -1,0 +1,16 @@
+.desc {
+  font-family: "Tajawal", sans-serif;
+}
+.desc h1 {
+  font-weight: 550;
+}
+.desc button {
+  margin-top: 10px;
+  background-color: #7fd3df;
+  color: aliceblue;
+  border: none;
+  padding: 10px 35px;
+  font-size: 16px;
+  border-radius: 25px;
+  font-size: Tajawal;
+}/*# sourceMappingURL=style.module.css.map */
